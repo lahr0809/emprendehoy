@@ -19,7 +19,9 @@
 
 ---------------
 Otros problemas encontrados
- - No existe una etiqueta H1
+ - No existe una etiqueta H1 (Importante para la estructuración y SEO)
+ - No se estan usando imagenes de actual generación como Webp. (Ayuda al performance del sitio)
+ - LCP es de 2.9 segundos no deberia pasar los 1.2 segundos (Tiempo de carga del elemento más grande)
 
 ### Solución de Problemas:
 1. Al abrir la landing page el foco principal debe ser el titulo objetivo por lo tanto se propone una redistribución de los elementos del Hero.
