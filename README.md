@@ -49,3 +49,83 @@ El color naranja atrae la atención sin la connotación negativa del rojo, y es 
 
 ![Problema 6](https://github.com/lahr0809/emprendehoy/blob/main/assets/Problem51.png)
    
+## Sección 2: Creación de Landing Pages
+### Landing page promocional Emprende Hoy
+Landing page creada con el CMS Wordpress e implementando el builder Oxygen. Se siguieron las instrucciones creado secciones de presentación, formulario, testimonios y llamado a la acción.
+
+Url: [Emprende Hoy](https://emprendehoy.42web.io "Emprende hoy")
+
+### A/B Testing:
+
+**Tipo de test:** test A/B
+
+**Variables:** original (con color naranja(#ff5f00)), variante 1 color de botón rojo(#ff4141) y CTA sin texto).
+
+**Duración del test:** 30 días
+
+**Herramienta:** VWO
+
+**Objetivo principal:** aumento de leads
+
+**Objetivo secundario:** Conocer a aceptación de color de boton y estructura de CTA
+
+La efectividad de cada versión de test se medirá por la tasa de conversión según la interacción de los usuarios sobre el CTA durante 30 días.
+
+#### Evidencias
+![ABtest](https://github.com/lahr0809/emprendehoy/blob/main/assets/ABtest1.png)
+
+![ABtest](https://github.com/lahr0809/emprendehoy/blob/main/assets/ABtest2.png)
+
+![ABtest](https://github.com/lahr0809/emprendehoy/blob/main/assets/ABtest3.png)
+
+### Sección 3: Caso de Implementación de Procesador de Pagos
+
+**Procesadores de pago**
+
+**Adyen**
+
+**Descripción:** Adyen es una plataforma global de pagos que ofrece una solución unificada para aceptar pagos en línea, en aplicaciones móviles y en tiendas físicas. Es conocida por su tecnología avanzada y su capacidad de adaptación a diferentes mercados.
+
+**Características Destacadas:**
+
+-Soporte para múltiples métodos de pago globales y locales.
+
+-Herramientas avanzadas de análisis y reportes.
+
+-Protección contra fraudes con inteligencia artificial.
+
+-Integración fluida con plataformas de comercio electrónico y aplicaciones móviles.
+
+**Square**
+
+**Descripción:** Square es conocida por su simplicidad y por ofrecer soluciones completas para pequeñas y medianas empresas, incluyendo procesamiento de pagos, puntos de venta (POS) y herramientas de facturación.
+
+**Características Destacadas:**
+
+-Procesamiento de pagos en línea y en persona.
+
+-Integración con hardware POS.
+
+-Herramientas de facturación y gestión de inventario.
+
+-Tarifas competitivas y sin tarifas ocultas.
+
+**WorldPay**
+
+**Descripción:** WorldPay permite a las empresas aceptar una variedad de métodos de pago, incluyendo tarjetas de crédito y débito, transferencias bancarias, y pagos electrónicos. Con un enfoque en la seguridad y la innovación, WorldPay proporciona soluciones de pago robustas tanto para tiendas físicas como para comercios electrónicos.
+
+**Características Destacadas:**
+
+-Soporte Global de Pagos
+
+-La plataforma ofrece robustas medidas de seguridad para proteger las transacciones y los datos de los clientes.
+
+-WorldPay proporciona diversas opciones de integración, incluyendo APIs, SDKs y plugins para plataformas de comercio electrónico populares como Shopify, WooCommerce, y Magento.
+
+-La plataforma ofrece herramientas de informes y análisis que permiten a los comerciantes obtener una visión detallada de sus transacciones y rendimiento de ventas.
+
+### Selección e implementación de procesador de pagos
+
+Se adjunta documento con lo solicitado en esta sección.
+
+Url: [Documento Procesador de Pagos](https://github.com/lahr0809/emprendehoy/blob/main/assets/Procesador-de-pagos.pdf "Procesador de Pagos")
