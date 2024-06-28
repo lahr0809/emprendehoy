@@ -53,7 +53,7 @@ El color naranja atrae la atención sin la connotación negativa del rojo, y es 
    
 ## Sección 2: Creación de Landing Pages
 ### Landing page promocional Emprende Hoy
-Landing page creada con el CMS Wordpress e implementando el builder Oxygen. Se siguieron las instrucciones creado secciones de presentación, formulario, testimonios y llamado a la acción.
+Landing page creada con el CMS Wordpress e implementando el builder Oxygen. Se siguieron las instrucciones creando secciones de presentación, formulario, testimonios y llamado a la acción.
 
 Url: [Emprende Hoy](https://emprendehoy.42web.io "Emprende hoy")
 
