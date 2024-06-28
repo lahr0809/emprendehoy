@@ -1,4 +1,4 @@
-# Prueba Webmaster
+# Prueba Webmaster - Luis Hernandez
 ## Sección 1: Evaluación de UX/UI
 ### Identificación de Problemas:
 1. Hay una mala distribución de los elementos del hero.
